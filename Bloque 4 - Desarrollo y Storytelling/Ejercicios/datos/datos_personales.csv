@@ -1,0 +1,312 @@
+EmpID,MarriedID,MaritalStatusID,GenderID,State,Zip,DOB,Sex,MaritalDesc,CitizenDesc,HispanicLatino,RaceDesc
+10026,0,0,1,MA,1960,07/10/83,M ,Single,US Citizen,No,White
+10084,1,1,1,MA,2148,05/05/75,M ,Married,US Citizen,No,White
+10196,1,1,0,MA,1810,09/19/88,F,Married,US Citizen,No,White
+10088,1,1,0,MA,1886,09/27/88,F,Married,US Citizen,No,White
+10069,0,2,0,MA,2169,09/08/89,F,Divorced,US Citizen,No,White
+10002,0,0,0,MA,1844,05/22/77,F,Single,US Citizen,No,White
+10194,0,0,0,MA,2110,05/24/79,F,Single,US Citizen,No,White
+10062,0,4,1,MA,2199,02/18/83,M ,Widowed,US Citizen,No,White
+10114,0,0,0,MA,1902,02/11/70,F,Single,US Citizen,No,Black or African American
+10250,0,2,1,MA,1886,01/07/88,M ,Divorced,US Citizen,No,White
+10252,1,1,0,MA,1902,01/12/74,F,Married,US Citizen,Yes,Black or African American
+10242,1,1,1,MA,2062,02/21/74,M ,Married,US Citizen,Yes,Black or African American
+10012,0,2,1,TX,78230,07/04/88,M ,Divorced,US Citizen,No,Black or African American
+10265,0,0,1,MA,1810,07/20/83,M ,Single,US Citizen,No,Two or more races
+10066,0,2,1,MA,2747,07/15/77,M ,Divorced,US Citizen,No,White
+10061,0,0,1,MA,2050,10/18/81,M ,Single,US Citizen,No,White
+10023,1,1,0,MA,2145,04/17/66,F,Married,US Citizen,No,White
+10055,0,0,0,MA,1915,10/27/70,F,Single,Eligible NonCitizen,No,White
+10245,0,0,0,MA,2026,04/04/86,F,Single,US Citizen,Yes,White
+10277,0,0,1,MA,2452,04/06/79,M ,Single,US Citizen,No,Asian
+10046,0,0,1,MA,2072,12/22/70,M ,Single,US Citizen,Yes,White
+10226,0,2,0,MA,2027,12/27/58,F,Divorced,US Citizen,No,Asian
+10003,1,1,0,MA,2031,09/01/89,F,Married,US Citizen,No,White
+10294,0,0,0,MA,2171,09/21/90,F,Single,US Citizen,No,White
+10267,0,0,0,MA,2210,01/16/67,F,Single,US Citizen,No,White
+10199,0,0,1,CT,6033,07/30/64,M ,Single,US Citizen,No,Black or African American
+10081,1,1,0,MA,2468,04/04/87,F,Married,US Citizen,No,Black or African American
+10175,0,0,1,MA,1901,03/10/70,M ,Single,US Citizen,No,Asian
+10177,1,1,0,MA,1701,08/24/90,F,Married,US Citizen,No,White
+10238,1,1,0,MA,1450,11/24/87,F,Married,US Citizen,No,Black or African American
+10184,0,0,1,MA,1013,07/28/83,M ,Single,US Citizen,No,White
+10203,0,3,0,MA,2043,10/30/69,F,Separated,US Citizen,No,Black or African American
+10188,1,1,0,VA,21851,06/01/64,F,Married,Eligible NonCitizen,No,Black or African American
+10107,0,0,0,MA,2148,03/02/80,F,Single,US Citizen,No,Black or African American
+10181,1,1,1,MA,1890,08/19/77,M ,Married,US Citizen,No,White
+10150,0,0,1,MA,2184,11/22/66,M ,Single,US Citizen,No,White
+10001,0,0,1,MA,2169,08/09/83,M ,Single,US Citizen,No,White
+10085,0,0,0,MA,2132,04/05/87,F,Single,US Citizen,No,White
+10115,0,0,1,MA,1701,02/02/83,M ,Single,US Citizen,No,Black or African American
+10082,0,0,0,MA,1886,06/06/86,F,Single,US Citizen,No,Black or African American
+10040,0,0,0,VT,5664,05/15/63,F,Single,US Citizen,No,White
+10067,0,0,0,MA,2763,01/02/51,F,Single,US Citizen,No,White
+10108,1,1,1,MA,2045,02/09/72,M ,Married,US Citizen,No,White
+10210,0,0,0,MA,2170,02/12/79,F,Single,US Citizen,No,White
+10154,0,0,1,MA,1845,08/24/83,M ,Single,US Citizen,No,White
+10200,0,0,1,TX,78207,06/11/70,M ,Single,Eligible NonCitizen,No,Black or African American
+10240,0,0,0,MA,1775,08/27/83,F,Single,US Citizen,No,White
+10168,0,0,0,MA,2044,05/31/88,F,Single,Non-Citizen,No,Black or African American
+10220,0,0,1,MA,2170,09/05/85,M ,Single,US Citizen,No,White
+10275,1,1,0,MA,1752,08/31/81,F,Married,US Citizen,No,White
+10269,1,1,1,MA,2169,11/25/78,M ,Married,US Citizen,No,White
+10029,1,1,1,MA,2134,08/26/80,M ,Married,US Citizen,No,White
+10261,0,0,1,MA,2452,09/08/77,M ,Single,US Citizen,No,White
+10292,0,0,1,MA,1880,08/12/79,M ,Single,US Citizen,No,Black or African American
+10282,0,2,1,MA,1803,12/17/75,M ,Divorced,US Citizen,No,White
+10019,0,0,1,MA,2030,03/19/83,M ,Single,US Citizen,No,Black or African American
+10094,1,1,0,MA,2189,03/31/77,F,Married,US Citizen,Yes,White
+10193,1,1,1,MA,1810,08/26/86,M ,Married,US Citizen,No,White
+10132,0,0,0,MA,1821,04/10/87,F,Single,US Citizen,No,White
+10083,0,0,1,CT,6278,09/09/65,M ,Single,US Citizen,No,White
+10099,0,0,0,VT,5473,04/19/90,F,Single,US Citizen,No,White
+10212,1,1,0,CT,6033,01/18/52,F,Married,US Citizen,No,White
+10056,1,1,0,MA,2110,11/05/78,F,Married,US Citizen,No,White
+10143,0,0,1,MA,2458,09/14/79,M ,Single,Eligible NonCitizen,No,Two or more races
+10311,1,1,1,MA,2138,04/15/88,M ,Married,US Citizen,No,White
+10070,1,1,1,MA,1810,10/31/77,M ,Married,US Citizen,No,White
+10155,0,0,0,MA,2176,07/05/79,F,Single,US Citizen,No,Black or African American
+10306,0,0,1,AL,36006,11/02/75,M ,Single,US Citizen,No,Two or more races
+10100,0,3,0,MA,2343,02/25/51,F,Separated,US Citizen,No,Black or African American
+10310,1,1,1,MA,2061,04/19/67,M ,Married,US Citizen,No,White
+10197,0,0,1,MA,2045,09/04/83,M ,Single,US Citizen,No,White
+10276,0,0,1,MA,2180,11/15/82,M ,Single,US Citizen,No,White
+10304,0,0,0,WA,98052,05/14/87,F,Single,US Citizen,Yes,White
+10284,1,1,0,MA,2351,12/02/78,F,Married,US Citizen,No,Black or African American
+10207,0,0,0,MA,2125,10/07/86,F,Single,US Citizen,Yes,White
+10133,1,1,0,MA,2119,07/18/88,F,Married,US Citizen,No,White
+10028,0,0,1,MA,1886,07/09/70,M ,Single,US Citizen,No,Black or African American
+10006,0,0,0,CA,90007,11/08/88,F,Single,US Citizen,No,White
+10105,0,0,0,MA,1731,11/28/73,F,Single,US Citizen,No,White
+10211,1,1,0,MA,1749,09/23/73,F,Married,US Citizen,No,White
+10064,1,1,0,MA,2343,09/05/91,F,Married,US Citizen,No,White
+10247,0,0,1,MA,2026,05/31/74,M ,Single,US Citizen,No,White
+10235,1,1,1,MA,2045,08/25/78,M ,Married,US Citizen,No,White
+10299,0,3,0,MA,2133,08/25/89,F,Separated,US Citizen,No,White
+10280,0,0,1,MA,2129,09/02/83,M ,Single,US Citizen,No,White
+10296,0,0,0,MA,2458,05/06/89,F,Single,US Citizen,No,White
+10290,1,1,0,MA,1749,05/15/87,F,Married,US Citizen,No,Black or African American
+10263,1,1,0,MA,1824,09/22/78,F,Married,US Citizen,No,Black or African American
+10136,0,0,0,MA,2324,09/27/87,F,Single,US Citizen,No,Black or African American
+10189,1,1,0,MA,2176,04/14/55,F,Married,US Citizen,No,White
+10308,1,1,1,MA,2132,10/18/89,M ,Married,US Citizen,No,White
+10309,0,0,1,MA,2138,06/18/87,M ,Single,US Citizen,No,White
+10049,1,1,0,MA,2155,03/16/81,F,Married,US Citizen,No,White
+10093,0,0,1,MA,2143,10/01/81,M ,Single,US Citizen,Yes,White
+10163,1,1,0,MA,2170,11/08/83,F,Married,US Citizen,No,White
+10305,1,1,1,MA,2330,07/07/75,M ,Married,US Citizen,No,White
+10015,0,0,1,MA,1460,07/05/80,M ,Single,US Citizen,No,Black or African American
+10080,1,1,0,MA,2050,04/16/79,F,Married,US Citizen,no,White
+10258,0,0,1,CT,6050,08/28/63,M ,Single,US Citizen,No,Black or African American
+10273,0,0,0,CT,6040,07/06/68,F,Single,US Citizen,No,White
+10111,0,0,1,MA,1905,09/15/85,M ,Single,US Citizen,Yes,White
+10257,0,0,0,MA,2121,12/02/83,F,Single,US Citizen,Yes,Black or African American
+10159,1,1,0,MA,2145,10/01/90,F,Married,US Citizen,No,Black or African American
+10122,0,2,0,MA,2330,05/15/70,F,Divorced,US Citizen,No,Black or African American
+10142,0,4,0,OH,43050,07/10/71,F,Widowed,US Citizen,No,Black or African American
+10283,1,1,1,MA,2062,08/09/74,M ,Married,US Citizen,No,Black or African American
+10018,0,0,0,MA,2451,05/08/80,F,Single,US Citizen,Yes,Two or more races
+10255,0,0,0,IN,46204,09/22/89,F,Single,US Citizen,No,White
+10246,0,0,0,MA,2127,10/23/71,F,Single,US Citizen,No,White
+10228,1,1,1,MA,2135,11/24/89,M ,Married,US Citizen,Yes,White
+10243,0,0,0,MA,2451,06/18/92,F,Single,US Citizen,Yes,White
+10031,0,2,1,MA,2108,09/29/69,M ,Divorced,US Citizen,No,Black or African American
+10300,1,1,1,MA,2128,10/12/64,M ,Married,US Citizen,No,Black or African American
+10101,0,3,0,MA,2472,04/16/81,F,Separated,US Citizen,Yes,White
+10237,1,1,0,MA,1886,05/25/86,F,Married,US Citizen,No,White
+10051,1,1,1,MA,2169,05/21/79,M ,Married,US Citizen,No,White
+10218,0,3,0,MA,1824,12/08/83,F,Separated,US Citizen,No,American Indian or Alaska Native
+10256,1,1,0,MA,1864,10/09/74,F,Married,US Citizen,No,Asian
+10098,0,2,1,MA,1752,07/11/81,M ,Divorced,US Citizen,No,White
+10059,0,2,0,MA,2176,05/21/83,F,Divorced,US Citizen,No,White
+10234,1,1,1,MA,2134,06/30/89,M ,Married,US Citizen,No,Black or African American
+10109,0,0,1,TN,37129,02/09/69,M ,Single,US Citizen,No,Two or more races
+10125,1,1,0,MA,2127,03/23/77,F,Married,US Citizen,No,White
+10074,0,0,1,MA,2155,08/10/88,M ,Single,US Citizen,Yes,White
+10097,0,0,0,MA,2324,08/18/52,F,Single,US Citizen,No,White
+10007,1,1,0,MA,1886,05/02/74,F,Married,US Citizen,No,White
+10129,0,0,1,MA,2149,01/04/84,M ,Single,US Citizen,No,White
+10075,0,0,0,MA,2021,08/27/72,F,Single,US Citizen,No,White
+10167,1,1,1,NH,3062,09/14/88,M ,Married,US Citizen,No,American Indian or Alaska Native
+10195,1,1,0,MA,2445,02/16/84,F,Married,Non-Citizen,No,White
+10112,0,0,0,MA,2493,02/21/84,F,Single,US Citizen,No,White
+10272,1,1,0,RI,2908,03/17/66,F,Married,US Citizen,No,White
+10182,1,1,0,MA,2170,09/16/85,F,Married,US Citizen,No,Black or African American
+10248,0,0,0,MA,2176,06/10/86,F,Single,US Citizen,No,White
+10201,0,0,0,MA,2021,03/11/84,F,Single,US Citizen,No,White
+10214,0,3,0,MA,2351,05/07/92,F,Separated,US Citizen,No,White
+10160,0,2,0,MA,1742,09/22/76,F,Divorced,US Citizen,No,White
+10289,1,1,1,MA,2128,11/15/76,M ,Married,US Citizen,No,Asian
+10139,0,0,0,MA,1775,01/28/91,F,Single,US Citizen,No,White
+10227,0,0,0,MA,2081,09/11/72,F,Single,US Citizen,No,Black or African American
+10236,0,2,0,MA,1778,03/22/66,F,Divorced,US Citizen,No,White
+10009,0,2,0,MA,1821,11/06/86,F,Divorced,US Citizen,No,American Indian or Alaska Native
+10060,0,3,0,MA,2109,04/13/64,F,Separated,US Citizen,No,White
+10034,1,1,1,MA,2445,08/19/59,M ,Married,US Citizen,No,White
+10156,1,1,0,MA,2301,11/07/86,F,Married,US Citizen,No,Asian
+10036,0,0,0,MA,2128,09/08/69,F,Single,US Citizen,No,White
+10138,1,1,0,MA,2446,04/17/86,F,Married,US Citizen,No,Black or African American
+10244,0,0,0,PA,19444,11/11/89,F,Single,US Citizen,No,White
+10192,0,0,1,MA,1887,01/19/76,M ,Single,US Citizen,No,White
+10231,0,0,1,CO,80820,11/27/79,M ,Single,US Citizen,No,White
+10089,1,1,0,MA,1902,09/21/54,F,Married,US Citizen,Yes,White
+10166,1,1,0,MA,2170,12/08/73,F,Married,US Citizen,No,White
+10170,1,1,0,MA,2127,10/08/70,F,Married,US Citizen,No,White
+10208,0,0,1,MA,1721,11/10/77,M ,Single,US Citizen,No,Black or African American
+10176,1,1,1,MA,1801,02/02/80,M ,Married,US Citizen,No,Asian
+10165,0,0,1,NY,10171,02/24/69,M ,Single,US Citizen,Yes,Black or African American
+10113,1,1,1,MA,2169,04/23/86,M ,Married,US Citizen,No,White
+10092,1,1,1,MA,1890,07/01/72,M ,Married,US Citizen,No,White
+10106,0,2,0,MA,2090,07/25/79,F,Divorced,US Citizen,No,Asian
+10052,1,1,1,MA,2048,12/09/86,M ,Married,US Citizen,No,White
+10038,0,2,1,MA,1460,04/26/84,M ,Divorced,US Citizen,No,Black or African American
+10249,1,1,1,MA,2126,05/09/84,M ,Married,US Citizen,No,White
+10232,0,0,0,MA,1886,06/14/87,F,Single,US Citizen,No,Asian
+10087,0,0,0,MA,1810,01/17/79,F,Single,US Citizen,No,Asian
+10134,1,1,1,MA,1460,06/10/84,M ,Married,US Citizen,No,White
+10251,1,1,1,MA,1776,09/02/82,M ,Married,US Citizen,No,Asian
+10103,0,3,1,UT,84111,12/27/88,M ,Separated,US Citizen,No,Black or African American
+10017,1,1,0,MA,2110,10/26/81,F,Married,US Citizen,No,White
+10186,1,1,0,MA,1886,03/26/81,F,Married,US Citizen,No,White
+10137,1,1,1,MA,1770,03/19/79,M ,Married,US Citizen,No,White
+10008,0,0,0,CT,6070,10/05/88,F,Single,US Citizen,Yes,Black or African American
+10096,0,4,0,MA,2122,12/26/76,F,Widowed,US Citizen,No,White
+10035,0,0,0,MA,2324,03/28/82,F,Single,US Citizen,No,Black or African American
+10057,1,1,0,MA,2122,10/22/75,F,Married,US Citizen,No,Black or African American
+10004,0,0,0,MA,1844,02/14/73,F,Single,US Citizen,Yes,Black or African American
+10191,0,4,1,MA,1938,11/09/72,M ,Widowed,US Citizen,No,White
+10219,0,0,0,MA,2189,07/07/86,F,Single,US Citizen,No,White
+10077,1,1,0,MA,2324,08/25/76,F,Married,US Citizen,No,White
+10073,1,1,0,MA,2176,12/10/86,F,Married,US Citizen,No,Two or more races
+10279,1,1,0,MA,2451,11/07/74,F,Married,US Citizen,No,White
+10110,0,0,0,MA,2135,11/07/87,F,Single,US Citizen,No,Asian
+10053,1,1,0,MA,2330,11/22/77,F,Married,US Citizen,No,White
+10076,0,0,0,MA,2149,05/21/87,F,Single,US Citizen,No,Black or African American
+10145,1,1,0,MA,2184,01/07/87,F,Married,US Citizen,No,Black or African American
+10202,1,1,1,TX,78789,07/01/84,M ,Married,US Citizen,No,Two or more races
+10128,0,0,0,MA,1760,05/30/68,F,Single,US Citizen,No,Black or African American
+10068,0,0,0,MA,2346,09/22/76,F,Single,US Citizen,No,White
+10116,0,0,1,MA,2045,08/10/81,M ,Single,US Citizen,yes,Hispanic
+10298,0,0,1,MA,2472,06/29/85,M ,Single,US Citizen,No,White
+10213,1,1,1,MA,1450,08/17/92,M ,Married,US Citizen,No,White
+10288,1,1,1,MA,2134,10/05/86,M ,Married,Eligible NonCitizen,Yes,Black or African American
+10025,0,0,0,MA,2126,04/24/70,F,Single,US Citizen,No,Black or African American
+10223,0,0,1,MA,2127,12/03/76,M ,Single,US Citizen,No,Black or African American
+10151,1,1,0,MA,2048,04/04/79,F,Married,US Citizen,No,White
+10254,0,2,0,MA,2453,07/07/84,F,Divorced,US Citizen,No,White
+10120,0,3,1,MA,1460,12/01/74,M ,Separated,US Citizen,No,Black or African American
+10216,0,0,1,MA,1550,04/18/80,M ,Single,US Citizen,No,Asian
+10079,0,0,1,MA,2056,04/25/70,M ,Single,US Citizen,No,Asian
+10215,0,0,1,MA,2110,05/02/89,M ,Single,US Citizen,No,Black or African American
+10185,1,1,1,MA,2421,03/28/83,M ,Married,US Citizen,No,White
+10063,1,1,1,MA,2136,04/08/77,M ,Married,US Citizen,No,White
+10037,0,3,0,MA,1810,06/03/67,F,Separated,US Citizen,No,Black or African American
+10042,0,0,0,GA,30428,03/31/89,F,Single,US Citizen,No,Two or more races
+10206,0,0,0,MA,2132,07/07/84,F,Single,US Citizen,No,White
+10104,0,0,0,MA,1040,11/23/85,F,Single,US Citizen,No,White
+10303,0,0,0,MA,2152,09/30/80,F,Single,US Citizen,No,Two or more races
+10078,1,1,0,MA,2492,02/11/52,F,Married,US Citizen,No,Asian
+10121,0,0,0,FL,33174,05/11/90,F,Single,US Citizen,Yes,White
+10021,1,1,1,MA,2478,12/11/76,M ,Married,US Citizen,No,White
+10281,0,0,1,MA,1760,11/24/79,M ,Single,US Citizen,No,Black or African American
+10041,0,0,1,NC,27229,05/19/82,M ,Single,US Citizen,No,White
+10148,1,1,0,MA,2351,05/01/79,F,Married,US Citizen,No,White
+10005,0,0,1,MA,1844,02/20/79,M ,Single,US Citizen,No,Black or African American
+10259,1,1,1,MA,2747,09/05/84,M ,Married,US Citizen,No,White
+10286,0,0,1,MA,2458,03/17/88,M ,Single,US Citizen,No,Black or African American
+10297,1,1,0,MA,2472,07/18/89,F,Married,US Citizen,No,Asian
+10171,0,0,0,MA,2176,07/20/86,F,Single,US Citizen,No,White
+10032,1,1,0,MA,1886,08/17/86,F,Married,US Citizen,No,White
+10130,1,1,0,MA,2030,05/09/77,F,Married,US Citizen,No,White
+10217,1,1,0,MA,2050,03/10/79,F,Married,Eligible NonCitizen,No,Asian
+10016,1,1,0,MA,1886,09/16/84,F,Married,US Citizen,No,Black or African American
+10050,1,1,1,MA,2451,03/06/88,M ,Married,US Citizen,No,Asian
+10164,0,0,1,MA,2451,11/23/81,M ,Single,US Citizen,No,White
+10124,1,1,0,KY,40220,08/29/88,F,Married,US Citizen,No,Black or African American
+10187,0,2,0,MA,1742,10/15/84,F,Divorced,Eligible NonCitizen,No,Asian
+10225,0,0,1,MA,2109,06/19/61,M ,Single,US Citizen,No,White
+10262,0,2,0,MA,2474,09/22/70,F,Divorced,US Citizen,No,White
+10131,1,1,1,MA,2045,11/06/84,M ,Married,Eligible NonCitizen,No,Black or African American
+10239,1,1,0,MA,2110,05/12/80,F,Married,US Citizen,No,Black or African American
+10152,0,2,1,MA,2478,12/31/84,M ,Divorced,US Citizen,No,White
+10140,1,1,1,ID,83706,10/12/54,M ,Married,US Citizen,No,White
+10058,0,2,1,MA,2176,07/22/82,M ,Divorced,US Citizen,Yes,White
+10011,1,1,0,MA,2171,01/12/73,F,Married,US Citizen,No,Asian
+10230,0,2,0,MA,1902,09/05/81,F,Divorced,Eligible NonCitizen,No,Black or African American
+10224,1,1,1,MA,2138,07/03/72,M ,Married,US Citizen,No,White
+10047,1,1,1,MA,1420,01/07/74,M ,Married,US Citizen,No,Black or African American
+10285,1,1,0,MA,1460,01/07/85,F,Married,US Citizen,No,White
+10020,0,4,1,MA,1730,01/28/85,M ,Widowed,US Citizen,No,White
+10162,1,1,0,MA,1886,10/11/81,F,Married,US Citizen,No,White
+10149,0,0,0,MA,2703,05/27/73,F,Single,US Citizen,Yes,White
+10086,0,0,0,MA,2056,11/21/72,F,Single,US Citizen,No,Black or African American
+10054,0,3,0,MA,1886,12/05/74,F,Separated,US Citizen,No,White
+10065,0,0,1,MA,2155,03/18/87,M ,Single,US Citizen,No,White
+10198,0,0,1,MA,2481,04/05/73,M ,Single,US Citizen,No,White
+10222,0,2,1,MA,1915,01/04/64,M ,Divorced,US Citizen,No,Black or African American
+10126,1,1,0,MA,2132,07/24/86,F,Married,US Citizen,No,White
+10295,0,0,0,MA,1801,06/06/68,F,Single,US Citizen,No,Black or African American
+10260,0,0,1,MA,2148,12/21/74,M ,Single,US Citizen,No,White
+10233,1,1,1,MA,2062,04/26/86,M ,Married,US Citizen,No,White
+10229,0,2,1,MA,2452,12/17/87,M ,Divorced,US Citizen,No,Black or African American
+10169,1,1,0,MA,2154,07/10/88,F,Married,US Citizen,No,Black or African American
+10071,0,0,0,MA,2191,03/10/75,F,Single,US Citizen,No,Asian
+10179,1,1,0,MA,1773,04/14/81,F,Married,US Citizen,No,White
+10091,1,1,0,MA,2149,08/24/85,F,Married,US Citizen,No,White
+10178,1,1,1,MA,2110,02/08/70,M ,Married,US Citizen,Yes,White
+10039,0,0,0,MA,2330,05/19/88,F,Single,US Citizen,No,White
+10095,0,0,0,MA,1851,11/25/87,F,Single,US Citizen,No,White
+10027,0,0,1,MA,2045,10/30/63,M ,Single,US Citizen,No,White
+10291,0,2,1,MA,1886,08/16/84,M ,Divorced,US Citizen,No,Black or African American
+10153,1,1,0,MA,1844,06/14/87,F,Married,US Citizen,No,Black or African American
+10157,0,0,0,MA,2130,02/02/65,F,Single,US Citizen,No,White
+10119,1,1,0,MA,2360,03/12/73,F,Married,US Citizen,No,Black or African American
+10180,1,1,1,MA,1545,02/09/83,M ,Married,US Citizen,No,Asian
+10302,1,1,0,MA,2093,07/20/68,F,Married,US Citizen,No,White
+10090,1,1,0,MA,2451,09/30/75,F,Married,US Citizen,No,White
+10030,0,2,0,MA,2359,03/26/73,F,Divorced,US Citizen,No,White
+10278,0,2,0,MA,2050,08/25/82,F,Divorced,US Citizen,No,Two or more races
+10307,1,1,1,NV,89139,05/09/74,M ,Married,US Citizen,No,White
+10147,0,0,1,MA,2703,09/01/86,M ,Single,US Citizen,No,White
+10266,1,1,1,MA,2301,03/14/85,M ,Married,US Citizen,No,Asian
+10241,1,1,0,MT,59102,05/12/89,F,Married,US Citizen,No,Black or African American
+10158,1,1,0,MA,1776,03/28/78,F,Married,US Citizen,No,Black or African American
+10117,1,1,1,MA,2747,10/07/82,M ,Married,US Citizen,Yes,White
+10209,0,0,0,MA,2718,08/15/68,F,Single,Eligible NonCitizen,No,Asian
+10024,0,0,1,MA,2140,05/06/83,M ,Single,US Citizen,No,White
+10173,1,1,1,MA,2134,10/24/87,M ,Married,US Citizen,No,White
+10221,1,1,0,MA,1801,04/03/75,F,Married,Non-Citizen,No,Black or African American
+10146,1,1,0,MA,2129,05/24/53,F,Married,US Citizen,No,White
+10161,0,0,0,OR,97756,05/07/65,F,Single,US Citizen,No,Black or African American
+10141,0,0,0,MA,2066,05/09/65,F,Single,US Citizen,No,White
+10268,0,4,1,MA,2472,09/16/75,M ,Widowed,US Citizen,No,White
+10123,0,2,0,MA,2093,06/05/67,F,Divorced,US Citizen,No,Black or African American
+10013,0,3,1,ND,58782,01/15/68,M ,Separated,US Citizen,No,White
+10287,0,0,0,MA,2021,05/16/83,F,Single,US Citizen,No,White
+10044,1,1,1,MA,1420,05/05/88,M ,Married,US Citizen,No,White
+10102,0,0,1,MA,2451,06/14/83,M ,Single,Non-Citizen,No,Black or African American
+10270,0,0,0,MA,1778,03/15/85,F,Single,US Citizen,No,White
+10045,1,1,1,MA,2343,03/31/69,M ,Married,Eligible NonCitizen,No,White
+10205,1,1,0,AZ,85006,05/23/91,F,Married,US Citizen,No,Two or more races
+10014,0,2,1,MA,2171,01/31/87,M ,Divorced,US Citizen,No,White
+10144,0,2,1,MA,2169,10/10/68,M ,Divorced,US Citizen,No,White
+10253,0,0,1,ME,4063,07/11/89,M ,Single,US Citizen,No,Asian
+10118,1,1,1,MA,1960,08/07/86,M ,Married,US Citizen,No,Black or African American
+10022,1,1,0,MA,2747,06/03/86,F,Married,US Citizen,No,White
+10183,0,0,0,MA,2124,04/06/85,F,Single,US Citizen,No,White
+10190,0,0,1,MA,2459,02/10/76,M ,Single,US Citizen,No,Black or African American
+10274,1,1,0,MA,2478,11/14/55,F,Married,US Citizen,No,Black or African American
+10293,0,0,0,MA,1887,08/02/80,F,Single,US Citizen,No,White
+10172,0,0,1,MA,1887,07/08/81,M ,Single,US Citizen,No,Asian
+10127,0,4,0,MA,2453,05/02/78,F,Widowed,US Citizen,No,Asian
+10072,0,0,1,MA,2030,05/24/87,M ,Single,US Citizen,Yes,White
+10048,1,1,1,MA,2324,09/09/65,M ,Married,Eligible NonCitizen,No,White
+10204,0,2,0,MA,1876,07/30/83,F,Divorced,US Citizen,No,White
+10264,0,0,0,MA,2109,10/02/69,F,Single,US Citizen,Yes,Black or African American
+10033,0,0,1,MA,2045,11/07/58,M ,Single,US Citizen,No,White
+10174,0,0,0,MA,2302,04/20/85,F,Single,US Citizen,No,White
+10135,0,0,1,MA,1810,05/11/85,M ,Single,US Citizen,No,White
+10301,0,0,0,MA,2458,05/04/82,F,Single,US Citizen,No,Asian
+10010,0,0,0,MA,2067,08/30/79,F,Single,US Citizen,No,White
+10043,0,0,0,MA,2148,02/24/79,F,Single,US Citizen,No,White
+10271,0,4,0,MA,1730,08/17/78,F,Widowed,US Citizen,No,Asian
