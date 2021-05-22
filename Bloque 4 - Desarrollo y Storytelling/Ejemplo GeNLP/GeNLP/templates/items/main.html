@@ -1,0 +1,50 @@
+{% extends 'layouts/master.html' %}
+{% set active_page = 'main' %}
+{% block title %}GeNLP{% endblock %}
+{% block body %}
+
+<p></p>
+<div class="row">
+  <div class="col-md-3">
+    <p></p>
+  </div>
+  <div class="col-md-6">
+    <h6 align="center">Please, write your awesome synopsis!</h6>
+  </div>
+  <div class="col-md-3">
+    <p></p>
+  </div>
+</div>
+<p></p>
+
+<form method="post">
+<div class="form-group">
+  <textarea class="form-control" name="synopsis" id="synopsis" rows="3" style="margin-top: 0px; margin-bottom: 0px; height: 189px;">{{ synopsis }}</textarea>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <p></p>
+  </div>
+  <div class="col-md-4" align="center">
+    <input type="submit" class="btn btn-primary btn-lg btn-block" name="get_genres" value="Get genres!" />
+  </div>
+  <div class="col-md-4">
+    <p></p>
+  </div>
+</div>
+</form>
+
+<div class="row">
+  <div class="col-md-4">
+    <p></p>
+  </div>
+</div>
+{% if gen_mes == True %}
+<div class="alert alert-dismissible alert-success">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  The genres of the story are <strong>{{ genres }}</strong>.
+{% endif %}
+
+
+{% endblock %}
